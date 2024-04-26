@@ -27,7 +27,7 @@ when you finished, your branch can be merged with the master(main) branch
 
 ## Collabration :-
 
-whenworking with other programs, git comes in handy as a collabration tool
-
+when working with other programs, git comes in handy as a collabration tool
+ 
 As version control is necessary part of development, git knowledge is needed in many developer jobs
 
